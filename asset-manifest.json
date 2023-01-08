@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/auth.git/static/css/main.5bab1d41.css",
+    "main.js": "/auth.git/static/js/main.67ca615d.js",
+    "static/media/main.svg": "/auth.git/static/media/main.c15b52bc3250567318ec12f4ba9944a4.svg",
+    "static/media/logo.svg": "/auth.git/static/media/logo.a1c201891bf5a4e43e7db490f3bfbd25.svg",
+    "index.html": "/auth.git/index.html",
+    "main.5bab1d41.css.map": "/auth.git/static/css/main.5bab1d41.css.map",
+    "main.67ca615d.js.map": "/auth.git/static/js/main.67ca615d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bab1d41.css",
+    "static/js/main.67ca615d.js"
+  ]
+}
